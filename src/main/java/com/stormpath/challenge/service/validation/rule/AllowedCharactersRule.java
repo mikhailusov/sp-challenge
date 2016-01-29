@@ -13,13 +13,13 @@ public class AllowedCharactersRule implements Rule {
         this.pattern = pattern;
     }
 
-    public AllowedCharactersRule(String alowedChars) {
-
-    }
-
-    public AllowedCharactersRule(char[] allowedChars) {
-
-    }
+//    public AllowedCharactersRule(String alowedChars) {
+//
+//    }
+//
+//    public AllowedCharactersRule(char[] allowedChars) {
+//
+//    }
 
     @Override
     public boolean isValid(String string) {

@@ -16,13 +16,13 @@ public class ContainsRule implements Rule {
         this.count = count;
     }
 
-    public ContainsRule(String string, int count) {
-
-    }
-
-    public ContainsRule(char character, int count) {
-
-    }
+//    public ContainsRule(String string, int count) {
+//
+//    }
+//
+//    public ContainsRule(char character, int count) {
+//
+//    }
 
     @Override
     public boolean isValid(String string) {
