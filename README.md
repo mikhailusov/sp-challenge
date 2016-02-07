@@ -1,4 +1,4 @@
-Stormpath Password Validation Service
+Password Validation Service
 ==
 
 How to build:
